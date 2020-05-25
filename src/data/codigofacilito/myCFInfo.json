@@ -1,0 +1,48 @@
+{
+  "data": {
+    "email": "4rturd13@gmail.com",
+    "username": "4rturd13",
+    "certificates": [
+      {
+        "title": "Curso Gratuito de Bootstrap 4",
+        "score": "33.0",
+        "code": ""
+      }
+    ],
+    "articles": [],
+    "courses": [
+      {
+        "title": "Curso Gratuito de Bootstrap 4",
+        "progress": "33.0",
+        "url": "http://codigofacilito.com/courses/bootstrap"
+      },
+      {
+        "title": "Curso Profesional de Backend",
+        "progress": "5.0",
+        "url": "http://codigofacilito.com/courses/backend-profesional"
+      },
+      {
+        "title": "Curso de javaScript Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/javascript"
+      },
+      {
+        "title": "Curso gratis de React",
+        "progress": "5.0",
+        "url": "http://codigofacilito.com/courses/curso-gratis-de-react"
+      },
+      {
+        "title": "Curso Profesional de JavaScript",
+        "progress": "34.0",
+        "url": "http://codigofacilito.com/courses/javascript-profesional"
+      }
+    ],
+    "finished_courses": [
+      {
+        "title": "Curso de Fundamentos de React",
+        "url": "http://codigofacilito.com/courses/react-intro-gratis"
+      }
+    ]
+  },
+  "errors": []
+}

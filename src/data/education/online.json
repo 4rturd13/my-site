@@ -1,0 +1,23 @@
+{
+  "slug": "online",
+  "title": "Online courses",
+  "description": "",
+  "items": [
+    {
+      "name": "Professional course JavaScript",
+      "url": "asdas"
+    },
+    {
+      "name": "Professional course Python",
+      "url": "dasd"
+    },
+    {
+      "name": "Professional course otro",
+      "url": "dasd"
+    },
+    {
+      "name": "Professional course otro",
+      "url": "dasda"
+    }
+  ]
+}

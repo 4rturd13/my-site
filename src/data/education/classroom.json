@@ -1,0 +1,11 @@
+{
+  "slug": "classroom",
+  "title": "Education background",
+  "description": "",
+  "items": [
+    {
+      "name": "Code Your Future",
+      "degree": "Web Developer"
+    }
+  ]
+}
